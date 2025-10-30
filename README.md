@@ -132,6 +132,5 @@ It demonstrates practical skills in **data engineering, analytics, and visualiza
 
 ## 👩‍💻 Developed By
 **Shradha Pramod Pol**  
-*Data Analyst | 6+ Years Experience | Python | SQL | Power BI*  
 💼 [LinkedIn](https://www.linkedin.com/in/shradhapolofficial)  
 📂 [GitHub](https://github.com/shradha-pol)
