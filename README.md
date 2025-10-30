@@ -80,7 +80,7 @@ An interactive **Customer Behavior Dashboard** was developed in Power BI to show
 - Visual comparisons by **Category, Age Group, Gender, and Shipping Type**
 
 📸 **Dashboard Preview:**  
-![Customer Behavior Dashboard](Customer%20Behavior%20Dashboard_page-0001.jpg)
+![Customer Behavior Dashboard](https://github.com/shradha-pol/Customer_Behavior_Analysis/blob/main/Customer_Behavior_Dashboard_Snapshot.jpg)
 
 ---
 
